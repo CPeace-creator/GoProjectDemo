@@ -1,0 +1,5 @@
+app:
+  name: App
+  port: :3000
+database:
+  DSN: "root:root0128@tcp(127.0.0.1:3306)/goDemo?charset=utf8mb4&parseTime=True&loc=Local"
